@@ -1,0 +1,16 @@
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.exe
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.deps.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.runtimeconfig.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.runtimeconfig.dev.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\ref\criando um jogo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\bin\Debug\net5.0\criando um jogo.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\ref\criando um jogo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\criando um jogo\obj\Debug\net5.0\criando um jogo.genruntimeconfig.cache
