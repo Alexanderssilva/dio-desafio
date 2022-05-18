@@ -1,0 +1,16 @@
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.exe
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.deps.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.runtimeconfig.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.runtimeconfig.dev.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\ref\trabalhando tipos de referencia e valor.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\bin\Debug\net5.0\trabalhando tipos de referencia e valor.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\ref\trabalhando tipos de referencia e valor.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\trabalhando tipos de referencia e valor\obj\Debug\net5.0\trabalhando tipos de referencia e valor.genruntimeconfig.cache
