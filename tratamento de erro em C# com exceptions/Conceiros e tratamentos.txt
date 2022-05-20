@@ -1,0 +1,90 @@
+oque é uma excessão?
+qualquer condição de erro ou comportamento inesperado por um programa em execução.
+	falha de codificação
+	falta de recursos disponiveis 
+	condiçoes inesperadoas pelo runtime.
+
+tipos de erros possiveis
+erros de sintaxe 
+erros em tempo de execução
+erro logico
+exceção provocada por falha logica do desenvolvedor
+	muito dificil de ser tratada.
+	mais facil mudar o codigo.
+	
+erros de tempo de execução
+	não estão necessariamente relacionadass a codigo mal escrito
+	comum em caso de leitura/ escrita de arquivos(ex. arquivos podem não existir ou estar corrompidos)
+	falha de ssitema
+		erro de tempo de execução que não pode ser programaticamente  tratado de maneira significativa( falta de recursos como ram etc)
+
+
+por que devemos tratar erros?
+	evitar parada subita do sistema
+	mensagens amigaveis para ussuario final
+	melhor comunicação com desenvolvedores para tratar rapidamente o problema.
+
+
+**hierarquia de clases exception
+entender a hierarquia de classe de exceções a partir da clase base System.exception e exceções mais comuns.
+conhecer propriedades e metodos uteis
+aprender instruções assosciadas ao tratamento de exceções
+
+toda exceção em .net herda da classe system. exception
+
+*propriedades e métodos uteis da classe exception
+propriedades importantes herdadas:
+	message: descrição legivel para humanos com a causa da exceção
+innerException: obtem conjunto de exceções superiores ou exceçãoque levou a exceção atual
+stacktrace: rastreamento do caminho até chegar no erro
+
+source: relacionada a aplicação ou objeto que causou o erro
+targetsite: relacionada ao metodo que lancou a exceção atual
+
+
+metodos
+
+
+
+getbase exception
+dada uma cadeica de exceções, somente uma delas pode ser a causa raiz para todas as outeas portanto é a exceção base
+
+getobjectdata
+configuração de informações relacionadas a exceção lancada .
+info: guarda objeto de dasdos serializado.
+context: contem informação de conteto sobre origem ou destino dos dados a serem transmitidos
+gettype
+retorna tipo da instancia atual em tempo de execução
+to string
+retorna a representação da atual exceç~çao em forma string.
+
+
+comandos para lançar e tratar exceções
+
+comando try:
+prove um mecanismo para capturar exceç~eos que ocorrem durante a execução de certo bloco de codigo
+comando catch:
+apos a captura, sistema procura pelo comando catch mais proximo que pode lidar com a exceção(pode se usar mais de um)
+comando finally:
+bloco util para liberação de recursos, pois sempre é executado, independente da captura e tratamento da exceção.
+comando throw:
+lança uma exceção em codigo explicitamente
+utilizar o comando em um contexto de exceção ja capturado, faz o relancamento da exceção dentro do catch, provendo assim mais informações para depuração.
+comando when:
+trata exceções de acordo com requerimentos especificos que voce define para dada exceção
+util quando uma exceção pode ser tratada igualmente para multiplos erros sob determinadas condiçoes(primeiro vai tentar o when se não vai para o catch)
+
+
+customizando exceçoes
+apesar da hierarquia de clases existentes com base na classe exceptio, é possivel criar sua propria classe de exceção de acordo com a necessidade
+motivações 
+	quando uma exceção reflete um erro especifico que não foi mapeado por uma classe de exceção existente
+quando a exceção necessita de um tratamento diferenciado
+
+proces=dimento
+1 criar uma classe que e=herda de exception
+2 definir construtores da classe
+3 se necessario, sobrescreva menbros cujo comportamento queira modificar
+4 definir se a exceção será serializavel
+
+(usasse o throw para chamar uma classe predifinida e arrumar a exception)
