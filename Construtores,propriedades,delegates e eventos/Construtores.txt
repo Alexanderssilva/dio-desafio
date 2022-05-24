@@ -1,0 +1,43 @@
+construtores tem o mesmo nome da classe e não tem retornos.
+
+é possivel ter mais de um construtor, é só diferenciar os parametros.
+
+o construtor serve para definir no momento de sua instancia valores padrão para que sua clase/objeto ja seja iniciado com eles.
+
+construtor padrão não tem parametros.
+quando não é definido um construtor para a classe o c# cria automaticamente um construtor padrão
+quando é definido um construtor com parametros, o construtor padrão fica apagado.
+
+caso sua classe não tenha nenhum construtor definido explicitamente o c# usara um construtor padrao sem paramentros.
+caso seja definido um construtor com parametros, o c# não vai definir um construtor padrão e só podera ser usado o definido anteriormente.
+é possivel ter mais de um construtor, e uma mescra entre construtores padrões e com parametros
+
+
+construtor privado, um construtor que não pode ser usado para criar uma instacia do objeto.
+é usado o singleton qque cria somente uma instancia e ela fica ativa até o fim do ciclo de vida do programa
+
+chamando o construtor de herança
+é pego da classe mae os mesmos parametros e é repassado para a classe  filha, e a clase filha repassa a classe mae 
+
+sempre é chamada a classe mae e depois a classe filha
+
+
+getters e setters
+servem para atribuir uma variavel de maneira controlada e com validação
+
+readonly 
+é um modificador somente de leitura e bloqueia o campo de alterações que nao sejam em sua inicialização ou pelo construtor
+
+uma constante representa um valor que somente pode ser atribuido no momento de sua inicialização e não pode ser modificado posteriormente
+
+delegates 
+um delegate é uma maneira de passar um metodo como referencia, podendo ser usado como um callback, aceitando qualquer metodo que contenha a mesma assinatura acumula pela ordem fifo first in first out
+multicast delegate
+é chamar varios metodos em sequencia em uma unica chamada do delegate respeira a ordem fifo
+
+
+eventos
+um evento é um mecanismo de comunicação entra objetos, um evento vai ocorrer apos uma determinada ação 
+evento tem o publisher(delegate) e o subscriber(evento)
+para definir um evento é necessario declarar um delegate
+

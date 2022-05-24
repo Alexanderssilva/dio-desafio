@@ -1,0 +1,16 @@
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.exe
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.deps.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.runtimeconfig.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.runtimeconfig.dev.json
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\ref\File_and_FileInfo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\bin\Debug\net5.0\File_and_FileInfo.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\ref\File_and_FileInfo.dll
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.pdb
+C:\Users\Alexander\OneDrive\Área de Trabalho\Cursos\bootcamp\dio-desafio\System.IO\File_and_FileInfo\obj\Debug\net5.0\File_and_FileInfo.genruntimeconfig.cache
